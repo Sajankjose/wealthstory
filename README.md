@@ -1,4 +1,4 @@
-# Geojit Wealth Story — Experience Lab v0.4
+# Geojit Wealth Story — Experience Lab v0.5
 
 An interactive, self-contained experience prototype for the **Geojit Adaptive Relationship Experience** concept.
 
@@ -17,7 +17,7 @@ Open `index.html` in a modern browser. No build step or dependencies required.
 - **Communication lab:** Essential versus optional communication handling, consolidation and suppression.
 - **Opportunity desk:** Needs-led discovery with service-first safeguards.
 
-## New in v0.4
+## New in v0.5
 - Mobile-first Wealth Map area list with accessible tap targets and selection state.
 - Three-step wealth journey: Understand, Shape, Explore.
 - Clear separation of known holdings, unexplored areas and unassessed financial needs.
