@@ -1,4 +1,4 @@
-# Geojit Wealth Story — Experience Lab v1.0
+# Geojit Wealth Story — Experience Lab v1.1
 
 An interactive, self-contained experience prototype for the **Geojit Adaptive Relationship Experience** concept.
 
@@ -17,7 +17,28 @@ Open `index.html` in a modern browser. No build step or dependencies required.
 - **Communication lab:** Essential versus optional communication handling, consolidation and suppression.
 - **Opportunity desk:** Needs-led discovery with service-first safeguards.
 
-## New in v1.0 — End-to-End Experience Demonstration
+## New in v1.1 — Financial Context & Business Value
+- **Customer Story → financial perspective:** The same customer can view **My whole picture**, **Investing**, or **Trading**, rather than being classified permanently as one type.
+- Four informative, *fictional* numerical summary cards respond to the selected perspective and scenario: portfolio value, contributed capital, SIP regularity, exposure or trading activity where appropriate.
+- An interpretation card highlights one relevant observation, with a service-first override.
+- The established customer-intelligence evidence gate withholds numbers if supporting portfolio evidence is stale, restricted or unreliable.
+- **Marketing Studio → Business case:** An interactive first-year ROI model using optional reach, genuinely avoidable paid messages, cost per message, incremental attributable conversions, incremental retained customers, their net contributions and full first-year project cost.
+- Formula: first-year ROI = (communication cash savings + incremental commercial net contribution + non-overlapping retention net contribution − full first-year cost) / full first-year cost.
+- The default illustration assumes 4 lakh reachable customers, five avoided paid messages/customer/month, ₹0.20 avoidable cost/message, 1,500 incremental conversions at ₹2,000 net contribution, 400 additional retained customers at ₹2,500 contribution and ₹80 lakh first-year total investment. These are not observations or forecasts.
+- A downloadable CSV exports the current business-case inputs and computed results.
+- Marketing productivity, customer trust and relationship usefulness are proposed as separate pilot KPIs; salary capacity released is not automatically booked as cash savings.
+
+### Recommended v1.1 review
+1. In **Client experience → My Wealth Story**, compare the three financial perspective options, especially for **Active equity trader**.
+2. Check that an investor with no recorded trading activity is not incorrectly shown as an active trader.
+3. In **Marketing Studio → Customer intelligence**, simulate stale portfolio data; return to the customer view and confirm numbers are withheld.
+4. In **Marketing Studio → Business case**, vary reach, delivery costs, conversions, retention and first-year cost. Observe the three value streams and first-year ROI.
+5. Export the scenario CSV. Obtain Finance-approved net contribution and campaign baseline values before proposing an actual ROI.
+6. Test the existing **End-to-end demo**, service-first handling and communication governance.
+
+**Caution:** The interface and calculations are an exploratory model only. All customer figures and business-case assumptions are fictional. No live positions, costs, P&L, research calls, actual consent, CRM, Data Lake, marketing delivery or AI narrative generation is connected. Production metrics require verified data contracts, valuation timestamps, privacy and suitability gates.
+
+## Earlier improvements (v1.0) — End-to-End Experience Demonstration
 
 The **End-to-end demo** tab is available in both **Client experience** and **Marketing studio**. It connects seven previously separate concepts into one guided, management-ready walkthrough:
 
