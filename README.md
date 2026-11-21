@@ -1,4 +1,4 @@
-# Geojit Wealth Story — Experience Lab v0.8
+# Geojit Wealth Story — Experience Lab v0.9
 
 An interactive, self-contained experience prototype for the **Geojit Adaptive Relationship Experience** concept.
 
@@ -17,7 +17,26 @@ Open `index.html` in a modern browser. No build step or dependencies required.
 - **Communication lab:** Essential versus optional communication handling, consolidation and suppression.
 - **Opportunity desk:** Needs-led discovery with service-first safeguards.
 
-## New in v0.8
+## New in v0.9 — Customer Relationship Intelligence Layer
+- New **Marketing Studio → Customer intelligence** panel with a fictional signal registry.
+- Six signal categories: product relationship, transaction status, digital behaviour, declared goals, service context and optional-content permission.
+- Source, permitted purpose, freshness, data quality and eligibility status displayed for each signal.
+- Interactive failure tests for stale evidence, withheld permissions and poor-quality data.
+- Explainable decision trail and a fallback to non-personal financial education when the selected context cannot be used.
+- Portfolio values and relationship milestones are withheld if portfolio evidence fails its governance gate.
+- CSV download of fictional signal metadata and a conceptual data-lake integration blueprint.
+- No real customer records, analytics, data lake, consent service or message delivery are connected.
+
+### Test v0.9
+1. Open **Marketing Studio → Customer intelligence**.
+2. Change customer profiles or events; inspect the eligibility and decision explanation.
+3. Make portfolio data stale, then return to **My Wealth Story** to check that values and portfolio hints are withheld.
+4. Test permission and quality failures, restore the data and download the sample report.
+5. Check service-first prioritisation for a failed SIP or complaint.
+
+**Production caution:** Signal contracts must define identity, lineage, purpose, permission, freshness, data quality, retention and audit requirements. This frontend simulation is not a consent engine, an investment recommendation engine, or a secure account environment.
+
+## Earlier improvements (v0.8)
 - Mobile-first Wealth Map area list with accessible tap targets and selection state.
 - Three-step wealth journey: Understand, Shape, Explore.
 - Clear separation of known holdings, unexplored areas and unassessed financial needs.
