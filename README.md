@@ -1,4 +1,4 @@
-# Geojit Wealth Story — Experience Lab v1.1
+# Geojit Wealth Story — Experience Lab v1.2
 
 An interactive, self-contained experience prototype for the **Geojit Adaptive Relationship Experience** concept.
 
@@ -17,7 +17,27 @@ Open `index.html` in a modern browser. No build step or dependencies required.
 - **Communication lab:** Essential versus optional communication handling, consolidation and suppression.
 - **Opportunity desk:** Needs-led discovery with service-first safeguards.
 
-## New in v1.1 — Financial Context & Business Value
+## New in v1.2 — Management Investment Proposal
+- **Marketing Studio → Investment proposal**: management-ready decision narrative linked to the existing v1.1 ROI assumptions.
+- Financial summary shows eligible optional audience, modelled first-year benefit, full first-year cost, and hypothetical ROI.
+- Articulates the problem, customer/marketing/relationship value, and safeguards against using Wealth Story as another mass campaign.
+- Proposes four sequential investment gates: baseline feasibility, controlled authenticated pilot, measured expansion and scaled orchestration.
+- Defines primary commercial pilot outcome and customer, compliance, data and operational guardrails.
+- Lists cross-functional dependencies for Marketing/Analytics, Technology/Data, Compliance/Research, Finance/Business and Service/RM teams.
+- Includes a risk pre-mortem, management review disposition and editable session-only notes.
+- **Download decision memo** exports a text summary with the active ROI model assumptions and pilot plan. It does not send an approval request or store review notes in a backend.
+- Updates to the ROI slider inputs refresh the investment proposal metrics.
+
+### Review v1.2
+1. Open **Marketing Studio → Investment proposal** to read the investment case.
+2. Follow **Review ROI assumptions** and modify the cost, contribution and outreach figures; return to confirm the proposal changes.
+3. Select a review position and add a management note, then export the decision memo.
+4. Use **End-to-end demo** to demonstrate the customer experience, and inspect the Customer Intelligence and Communication Labs for governance.
+5. Replace fictional assumptions with Finance-, Marketing-, Technology- and Compliance-validated values before seeking pilot or production funding.
+
+**Status:** An interactive management proposal and deterministic ROI simulator, not a completed feasibility study, validated financial forecast, live communication system, production security review, or actual approval workflow.
+
+## Earlier improvements (v1.1) — Financial Context & Business Value
 - **Customer Story → financial perspective:** The same customer can view **My whole picture**, **Investing**, or **Trading**, rather than being classified permanently as one type.
 - Four informative, *fictional* numerical summary cards respond to the selected perspective and scenario: portfolio value, contributed capital, SIP regularity, exposure or trading activity where appropriate.
 - An interpretation card highlights one relevant observation, with a service-first override.
