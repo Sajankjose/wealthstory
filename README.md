@@ -1,4 +1,4 @@
-# Geojit Wealth Story — Experience Lab v0.9
+# Geojit Wealth Story — Experience Lab v1.0
 
 An interactive, self-contained experience prototype for the **Geojit Adaptive Relationship Experience** concept.
 
@@ -17,7 +17,32 @@ Open `index.html` in a modern browser. No build step or dependencies required.
 - **Communication lab:** Essential versus optional communication handling, consolidation and suppression.
 - **Opportunity desk:** Needs-led discovery with service-first safeguards.
 
-## New in v0.9 — Customer Relationship Intelligence Layer
+## New in v1.0 — End-to-End Experience Demonstration
+
+The **End-to-end demo** tab is available in both **Client experience** and **Marketing studio**. It connects seven previously separate concepts into one guided, management-ready walkthrough:
+
+1. Customer moment: a meaningful signal rather than a product broadcast.
+2. Customer intelligence: source, purpose, quality, freshness and eligibility.
+3. Next Best Experience: a governed priority and content decision.
+4. Personal edition: a short narrative, context hint and at most one optional article/video.
+5. Coordinated channel: one story across alternative email/WhatsApp/push presentations, with optional delivery rules.
+6. Journey continuity: conceptual preview, mock app verification, Wealth Story, Wealth Map or RM assistance.
+7. Outcomes: customer usefulness, marketing efficiency, governance and measurement hypotheses.
+
+### Walkthrough scenarios
+- **SIP investor:** an investment habit evolves into goal exploration.
+- **Active trader:** research relevance is considered but a specific call is blocked until an approved current research feed exists.
+- **SIP payment failure:** resolution outranks commercial discovery; required service messages remain independently governed.
+- **Retirement interest:** an explicitly declared customer goal provides contextual guidance.
+
+Select the optional channel and simulated permission to observe how outbound decisions change. Each step offers links to existing functional prototype screens. Download a **fictional review CSV** from the summary area.
+
+**Important:** All evidence, customer events and outcomes are fictitious. The verification step is a UI simulation, not real authentication. The system sends no communications and has no live AI, research feed, customer data, consent, customer identity or transaction service. Production architecture, security, suitability and legal/compliance validation are still required.
+
+### Suggested review
+Run the SIP investor flow end-to-end first, then try a failed SIP and optional permission withheld. Review the customer story and Wealth Map on mobile, and the Decision Centre / Orchestration Lab from the marketing perspective. Capture feedback on utility, clarity, prioritisation and trust before connecting live systems.
+
+## Earlier improvements (v0.9) — Customer Relationship Intelligence Layer
 - New **Marketing Studio → Customer intelligence** panel with a fictional signal registry.
 - Six signal categories: product relationship, transaction status, digital behaviour, declared goals, service context and optional-content permission.
 - Source, permitted purpose, freshness, data quality and eligibility status displayed for each signal.
